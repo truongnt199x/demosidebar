@@ -48,6 +48,7 @@ const Sidemenu = (props) => {
                     <Text>Mai Anh Tran</Text>
                     <Text>cdsfssdf</Text>
                     <Text>cdsfssdf32423</Text>
+                    <Text>cdsfssdf32423</Text>
                     <View style={{flexDirection:"row"}}>
                         <Text>3242</Text>
                         <Text> | </Text>
