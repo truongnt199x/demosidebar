@@ -45,7 +45,7 @@ const Sidemenu = (props) => {
             <View style={styles.customHeader}>
                 <Image source={require('../../asset/img/avatar.png')} resizeMode="cover" style={{borderRadius:20,width:40,height:40}}/>
                 <View>
-                    <Text>Mai Anh Tran asdaasd </Text>
+                    <Text>Mai Anh Tran asdasdsfasd </Text>
                     <View style={{flexDirection:"row"}}>
                         <Text>3242</Text>
                         <Text> | </Text>
